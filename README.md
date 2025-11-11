@@ -17,9 +17,4 @@
 
 </div>
 
-[![Gmail](https://img.shields.io/badge/contatoalexandergv@gmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:contatoalexandergv@gmail.com)](mailto:contatoalexandergv@gmail.com)
-[![Workana](https://img.shields.io/badge/Workana-%23F79C42.svg?logo=workana&logoColor=white)](https://www.workana.com/freelancer/3a7f9f6eeab9cc096deca7f10d57387f)
-
-#### 🌐 My personal blog:
-
-<p><strong>Under development</strong>⚠️</p>
+[![Gmail](https://img.shields.io/badge/contatoalexandergv@gmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:contatolucasfilipidossantos@gmail.com)](mailto:contatolucasfilipidossantos@gmail.com))
