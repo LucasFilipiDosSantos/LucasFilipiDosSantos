@@ -1,5 +1,5 @@
-Hi my name is Lucas 👋
-I'm Brazilian programming student majoring in Systems Analysis and Development, passionate about building modern web applications and learning new technologies.
+
+A brazilian programming student majoring in Systems Analysis and Development, passionate about building modern web applications and learning new technologies.
 
 <div style="width: max-content;">
 
