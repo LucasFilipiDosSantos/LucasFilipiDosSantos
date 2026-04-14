@@ -1,4 +1,3 @@
-
 A brazilian programming student majoring in Systems Analysis and Development, passionate about building modern web applications and learning new technologies.
 
 <div style="width: max-content;">
@@ -9,7 +8,10 @@ A brazilian programming student majoring in Systems Analysis and Development, pa
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-![Python](https://img.shields.io/badge/Python-%23055595?style=flat-square&labelColor=%23414141&logo=python&logoColor=white)</div>
+![Python](https://img.shields.io/badge/Python-%23055595?style=flat-square&labelColor=%23414141&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&labelColor=%23414141&logo=c&logoColor=white)
+
+</div>
 
 #### 📫 You can find me at:
 
